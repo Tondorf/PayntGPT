@@ -37,7 +37,7 @@ Gamepad N steers painter N with the stick or d-pad. `P` pauses, `M` mutes,
 | Item | Effect |
 |---|---|
 | Freeze | Everyone else stands still for about 15 seconds |
-| Speed | You move half as fast again |
+| Speed | You move 50 % faster |
 | Splat | A big blot of your colour where the item lay |
 | Sprinkle | A couple of seconds of your colour raining across the floor |
 | Jinx | Everyone else slows down and cannot paint |
